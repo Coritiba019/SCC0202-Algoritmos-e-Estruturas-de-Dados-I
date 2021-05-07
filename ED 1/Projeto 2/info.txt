@@ -1,0 +1,15 @@
+Projeto 2 – Estruturas de Dados I
+SCC-0202
+
+Nome: Fabio Dias da Cunha
+Número USP: 11320874
+
+
+
+-------Compilação do Projeto--------
+
+gcc -c estacionamento.c main.c
+gcc -o exe estacionamento.o main.o
+./exe
+
+------------------------------------
